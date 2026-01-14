@@ -863,9 +863,6 @@ footer {
   .service-values {
     grid-template-columns: 1fr;
   }
-  color: var(--primary-green);
-  margin-bottom: 1rem;
-  font-size: 1.8rem;
 }
 
 .service-text p {
