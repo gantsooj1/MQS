@@ -1247,7 +1247,12 @@ footer {
   }
 
   .service-detail {
+    grid-template-columns: 1fr;
     padding: 1.5rem;
+  }
+
+  .service-detail.reverse {
+    direction: ltr;
   }
 
   .service-image {
