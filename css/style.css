@@ -1251,10 +1251,6 @@ footer {
     padding: 1.5rem;
   }
 
-  .service-detail.reverse {
-    direction: ltr;
-  }
-
   .service-image {
     height: 200px;
   }
